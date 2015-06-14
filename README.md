@@ -1,26 +1,20 @@
-script to have a simple Aos linux set up for chrooting
-
-
-
+script to have a simple Aos linux set up for chrooting,
 requires root rights for chrooting. 
 
 setsup a small linux (AOS) for chrooted needs.
 
 
-First part of the script can be run without root access.
-
+First part of the script can be run without root access.,
 It relies of buildaos script of alicia@ion.nu
 
 
-Second part of the script requires root is still under  testing
-
+Second part of the script requires root is still under  testing,
 It is advisable to run the code as individual codes inside
-
 the chrooted shell.
 
 Install the following:
 
--vim, perl, zlib, openssl, openssh
+	-vim, perl, zlib, openssl, openssh
 
 Issues + TODO:
 
