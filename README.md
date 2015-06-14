@@ -11,11 +11,9 @@ It is advisable to run the code as individual codes inside
 the chrooted shell.
 
 Install the following:
-======================
 -vim, perl, zlib, openssl, openssh
 
 Issues + TODO:
-=======
 -gcc options change when host and compiled arch are different.
 -test subshell for the passing other gcc arch option. 
 i.e, i386 on a X86_64 host machine. 
